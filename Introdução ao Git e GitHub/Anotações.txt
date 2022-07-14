@@ -1,0 +1,16 @@
+Git e GitHub
+
+Site para baixar e instalar https://git-scm.com/downloads
+
+Programa para versionamento, muito utilizado para programação
+
+Site muito utilizado e GitHub, https://github.com/
+onde pode deixar publico os codigos para outras pessoas colaborarem com o codigo.
+
+comandos basicos 
+	git status 
+	git add . ou git add -A
+	git commit -m -> para comentar o codigo, e importante para entendimento
+	git push origin -> para subir para o site.
+
+
