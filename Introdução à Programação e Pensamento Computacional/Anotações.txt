@@ -1,0 +1,26 @@
+Pensamento computacional
+
+* A importancia de decompor, pegar um problema grande e dividir e pequenos problema.
+* A abstração, generalização - trazer do mundo fisico para o computador.
+
+Fundamentos à lógica de Programação
+
+* Tipo de variaveis 
+	- tipo numerico: int, double, float
+	- Tipo de Texto: String, char
+	- tipo Lógico: Boleano (True or False) 
+* Operadores, são utilizados para comparar variaveis,
+* Estrutura de repetição (Loop) para reduzir o codigo e deixar mais limpo e facil de dar manutenção
+* Vetores e matrizes para ficar simples atribuir varios valores valores, sem precisar criar muitas variaves.
+
+Linguagem de Programação
+
+* Paradigma de programação, existe diversas linguagem de programação e também para atender necessidades especificas
+	- paradgma estruturado - exemplo linguagem C e Cobol
+	- paradigma  orientado a objeto - Java, phyton
+	- paradigma Funcional - Scala
+
+Primeiro Contato com programação 
+
+Para iniciar na logica de programação utiliza o portugol - site https://portugol-webstudio.cubos.io/ide
+	
